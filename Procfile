@@ -1,0 +1,1 @@
+web: gunicorn MeetForMove.wsgi --log-file -
