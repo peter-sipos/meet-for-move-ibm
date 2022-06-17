@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-687%3fwq4y@6w*3=@&e1ix%+&1=(f(os%c%v$14r&%yka_6(mc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['meet-for-move.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['meet-for-move.herokuapp.com/', '127.0.0.1', '.herokuapp.com']
 
 
 # Application definition
